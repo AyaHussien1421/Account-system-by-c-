@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1703945387 source:/home/aya/mec/FinalProject/main.cpp
+	"Account.h"
+	<iostream>
+	<queue>
+
+1703944064 /home/aya/mec/FinalProject/include/Account.h
+	<iostream>
+	<string>
+	<vector>
+
+1703944144 source:/home/aya/mec/FinalProject/src/Account.cpp
+	"Account.h"
+	<iostream>
+	<string>
+	<queue>
+
